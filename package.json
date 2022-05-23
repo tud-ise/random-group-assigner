@@ -1,0 +1,14 @@
+{
+  "name": "treatment-assigner",
+  "version": "0.1.0",
+  "description": "Randomly assign your experiment participants to your treatment groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregor Albrecht",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/functions": "^1.0.0"
+  }
+}
